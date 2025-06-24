@@ -1,0 +1,8 @@
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\bin\Debug\abhiiConsoleApp.exe.config
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\bin\Debug\abhiiConsoleApp.exe
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\bin\Debug\abhiiConsoleApp.pdb
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\obj\Debug\abhiiConsoleApp.csproj.AssemblyReference.cache
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\obj\Debug\abhiiConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\obj\Debug\abhiiConsoleApp.exe
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\obj\Debug\abhiiConsoleApp.pdb
+C:\Users\HARI\source\repos\abhiiConsoleApp\abhiiConsoleApp\obj\Debug\abhiiConsoleApp.exe.config
